@@ -1,3 +1,5 @@
+var openTab = document.getElementById("firstTab");
+openTab.click();
 var openInbox = document.getElementById("myBtn");
 openInbox.click();
 
